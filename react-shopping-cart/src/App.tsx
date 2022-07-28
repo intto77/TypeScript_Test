@@ -24,7 +24,7 @@ export type CartItemType = {
 };
 
 const getProducts = async (): Promise<CartItemType[]> =>
-  await (await fetch("http://fakestoreapi.com/products")).json();
+  await (await fetch("https://fakestoreapi.com/products")).json();
 
 const App = () => {
   const [cartOpen, setCartOpen] = useState(false);
