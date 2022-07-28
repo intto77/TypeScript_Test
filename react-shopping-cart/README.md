@@ -9,3 +9,5 @@ Styled Components is used in combination with Material UI to customize the style
 출처 : https://www.youtube.com/watch?v=sfmL6bGbiN8
 
 Demo : https://shopping-cart-intto77.netlify.app/
+
+![image](https://user-images.githubusercontent.com/97278496/181400371-d62022f7-a76d-442f-ab98-395143e1f856.png)
